@@ -1,6 +1,4 @@
 # Diff-L2O: Generating the Optimization Rules via Diffusion Models
-Authors: Ruihan Lin, Xuxi Chen, Zezhen Ding, Zhangyang Wang, Jiheng Zhang, Tianlong Chen
-
 [[Paper]]() | [[Arxiv]]()
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
