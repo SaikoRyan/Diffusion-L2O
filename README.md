@@ -13,8 +13,12 @@ predictions for variable updates, Diff-L2O
 takes a different approach by iteratively refining
 solutions through denoising techniques.
 
-<img src= "https://github.com/SaikoRyan/Diffusion-L2O/assets/12846405/c00d8bb3-1f6e-4555-b6d0-208e7609706c" alt="overview" width="300" height="300">
+<img src= "images/overview.png" alt="overview" width="300" height="300">
 
 ## Environment
 
 ## Citation
+python=3.10.4,
+pytorch=2.0.1,
+transformers=4.32.1,
+diffusers=0.20.1
